@@ -7,7 +7,7 @@ except ImportError:
 
 setup(
     name='folium',
-    version='0.1.2',
+    version='censio-0.1.2',
     description='Make beautiful maps with Leaflet.js & Python',
     author='Rob Story',
     author_email='wrobstory@gmail.com',
