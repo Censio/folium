@@ -6,8 +6,8 @@ except ImportError:
     from distutils.core import setup
 
 setup(
-    name='folium',
-    version='censio-0.1.2',
+    name='censio-folium',
+    version='0.1.2',
     description='Make beautiful maps with Leaflet.js & Python',
     author='Rob Story',
     author_email='wrobstory@gmail.com',
