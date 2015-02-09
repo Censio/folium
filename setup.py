@@ -23,7 +23,7 @@ pkg_data = {
 }
 
 setup(
-    name='folium',
+    name='censio-folium',
     version='0.1.2',
     description='Make beautiful maps with Leaflet.js & Python',
     author='Rob Story',
